@@ -12,4 +12,4 @@ Projeto - 2° Semestre - Engenharia de Software
 - Luiz Eduardo Pereira Melo
 - Italo Martins Rodrigues Silva
 - Guilherme Alves Botelho
-  
+- Wéllerson Maxwel Teixeira de Barros
